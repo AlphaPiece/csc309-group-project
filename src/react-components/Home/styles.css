@@ -1,0 +1,162 @@
+/* Styles for the Home React component */
+
+.wrapper { 
+  height: 50%;
+  width: 100%;
+  left:0;
+  right: 0;
+  top: 18px;
+  bottom: 0;
+  position: absolute;
+background: linear-gradient(124deg, #ff2400, #e81d1d, #e8b71d, #e3e81d, #1de840, #1ddde8, #2b1de8, #dd00f3, #dd00f3);
+background-size: 1800% 1800%;
+
+-webkit-animation: rainbow 18s ease infinite;
+-z-animation: rainbow 18s ease infinite;
+-o-animation: rainbow 18s ease infinite;
+  animation: rainbow 18s ease infinite;}
+
+@-webkit-keyframes rainbow {
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
+}
+@-moz-keyframes rainbow {
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
+}
+@-o-keyframes rainbow {
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
+}
+@keyframes rainbow { 
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
+}
+
+.top{
+	background-color: black;
+}
+
+.contactLink{
+	margin-left: 10px;
+	width:300px;
+	color: white;
+}
+
+.loginLink{
+	margin-left: 950px;
+	color: white;
+}
+
+.welcome
+{
+	position: absolute;
+	top: 20%;
+	left: 32%;
+
+}
+
+#welcomeWeb span
+{
+	font-size:200%;
+	color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+#welcomeMessage
+{
+	position: relative;
+	left: 10%;
+	font-size:130%;
+	color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+.searchEngine
+{
+	position: absolute;
+	top: 35%;
+	left:35%;
+}
+
+.searchEngine form
+{
+	position: relative;
+	left:72px;
+}
+.searchEngine h2{
+	color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+
+.main
+{
+	position: absolute;
+	top: 50%;
+}
+
+.grid-item{
+	border: solid white 30px;
+}
+
+.reviewImg
+{
+	opacity: 1;
+	display: block;
+	height: 210px;
+	max-width: 400px;
+	transition: .5s ease;
+    backface-visibility: hidden;
+}
+
+.Review {
+  position: relative;
+  width: 50%;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%)
+}
+
+.Review:hover .reviewImg {
+  opacity: 0.3;
+}
+
+.Review:hover .middle {
+  opacity: 1;
+}
+
+.text {
+  margin-left: 100px;
+  color: black;
+  font-size: 16px;
+  padding: 16px 32px;
+}
+
+
+.grey {
+  color: grey;
+}
+
+
+.imgSize{
+  width: 200px;
+  height: 200px;
+  margin-left: 40px;
+  margin-top: 30px;
+}
+
+.center {
+  text-align: center;
+}

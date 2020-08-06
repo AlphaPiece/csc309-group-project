@@ -1,0 +1,26 @@
+
+.container1{
+  left: 475px;
+  position: absolute;
+  margin: auto;
+  top: 100px;
+  width: 275px;
+}
+
+.login1 {
+  margin: 30px;
+}
+
+#button1 {
+  font-size: 110%;
+}
+
+.login2 {
+  float: right;
+}
+
+.signin {
+  margin: 50px;
+  color: black;
+}
+

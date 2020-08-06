@@ -1,0 +1,9 @@
+/* Styles for the StudentList React component */
+
+.comment-list__header {
+	text-align: center;
+}
+
+.MuiTable-root.comment-list {
+  margin-top: 5%;
+}

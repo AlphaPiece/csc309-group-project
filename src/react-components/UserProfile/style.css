@@ -1,0 +1,16 @@
+.banner {
+/*	display: block;*/
+	width: 150%;
+	height: 300px;
+
+}
+
+.createReview{
+	float: left;
+	margin-left: 70px;
+	margin-top: 60px;
+	border-style: solid;
+}
+
+.MuiButton-label{
+}

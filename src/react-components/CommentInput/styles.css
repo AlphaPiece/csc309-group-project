@@ -1,0 +1,23 @@
+/* Styles for the StudentForm React component */
+
+.comment-input {
+  justify-content: center;
+  height: 200px;
+}
+
+.comment-input .MuiGrid-root {
+  text-align: center;
+}
+
+.comment-input__header {
+	text-align: center;
+	height: 80px;
+}
+
+.MuiButton-root.comment-input__submit-button {
+  background-color: #457474;
+}
+
+.comment-input__button-grid {
+  line-height: 5;
+}

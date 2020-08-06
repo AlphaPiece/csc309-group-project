@@ -1,0 +1,68 @@
+.grid{
+	display: grid;
+	grid-template-columns: auto auto auto;
+	justify-items: center;
+	margin-top: 20px;
+}
+
+.headerTitle{
+	font-size: 22px;
+	font-weight: bold;
+	margin-top: 20px;
+	margin-left: 300px;
+}
+
+.titlea{
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+
+.gridItem td {
+	font-size: 17px;
+}
+
+#profilea {
+	margin-top: 30px;
+}
+
+#profilea td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+
+table tr td button {
+	margin: 6px;
+	font-size: 17px;
+}
+
+button {
+	float: left;
+}
+
+/* For the div that holds the tweet icon */
+.reviewa {
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: 5px;
+	/* Add properties below */
+
+}
+
+.reviewPic {
+	width: 50px;
+	border-radius: 50%;
+	float: left;
+	margin-right: 5px;
+
+
+	/* Add properties below */
+
+}
+
+.reviewContenta {
+	margin-top: 20px;
+	margin-bottom: 10px;
+}

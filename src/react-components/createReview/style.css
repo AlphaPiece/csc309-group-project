@@ -1,0 +1,41 @@
+.body{
+}
+.container{
+  left: 350px;
+  position: absolute;
+  margin: auto;
+  top: 20px;
+  height: 150px;
+  width: 600px;
+}
+
+.login {
+  margin: 30px;
+}
+
+.login2 {
+  float: right;
+}
+
+.register {
+  margin: 110px;
+  color: black;
+  font-size: 150%;
+}
+
+#email {
+  width: 97.5%;
+}
+
+#review{
+  width: 97.5%;
+  height: 200px;
+}
+
+.inline{
+  display: inline;
+}
+
+.uploadImg{
+  margin:30px;
+}

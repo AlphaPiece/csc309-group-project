@@ -1,0 +1,30 @@
+#userInfo {
+	position: absolute;
+	top: 20px;
+	left: 390px;
+	border-radius: 10px;
+  	background-color: white;
+  /* Add properties below */
+  	width: 600px;
+}
+
+#userInfo ul li{
+	font-size: 120%;
+	line-height: 200%;
+	list-style: none;
+	font-weight: bold;
+	display: block;
+}
+
+.userType{
+	font-weight: normal;
+	display: block;;
+	margin-left:300px;
+	font-size: 80%;
+}
+
+body {
+	background-color: #e6ecf0;
+	margin: 0;
+	font-family: "Helvetica Neue", Helvetica, sans-serif;
+}

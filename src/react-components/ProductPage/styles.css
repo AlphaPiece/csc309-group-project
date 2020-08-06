@@ -1,0 +1,17 @@
+.deleted-review {
+	text-align: center;
+}
+
+.approve-review__submit-button {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	display: flex;
+	justify-content: center;
+}
+
+.delete-review__submit-button {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	display: flex;
+	justify-content: center;
+}

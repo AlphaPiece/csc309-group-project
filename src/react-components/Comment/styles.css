@@ -1,0 +1,11 @@
+/* Styles for the Student React component */
+
+.comment {
+  margin-bottom: 5px;
+  font-size: 150%;
+}
+
+.comment .MuiTableCell-root {
+  font-size: 0.75em;
+  color: darkslategray;
+}

@@ -1,0 +1,9 @@
+/* Styles for the Home React component */
+
+.image {
+  width: 85%;
+  height: 75%;
+  margin: 30px;
+  border: 1px solid white;
+  margin-bottom: 15px;
+}

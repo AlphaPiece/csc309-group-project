@@ -1,0 +1,26 @@
+
+.container3{
+  left: 435px;
+  position: absolute;
+  margin: auto;
+  top: 100px;
+  height: 150px;
+  width: 400px;
+}
+
+.loginb {
+  margin: 30px;
+}
+
+.loginb2 {
+  float: right;
+}
+
+.registerb {
+  margin: 110px;
+  color: black;
+}
+
+#emailb {
+  width: 97.5%;
+}

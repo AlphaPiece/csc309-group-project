@@ -1,0 +1,58 @@
+ .reviewHistory {
+  background-color: white;
+  
+  /* Add properties below */
+  border-bottom: 1px solid grey;
+  min-height: 100px;
+  overflow: auto;
+  width: 600px;
+  }
+
+.reviewIconContainer{
+  width: 80px;
+  float: left;
+}
+
+.reviewIcon {
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+
+.reviewContent {
+  margin: 0px;
+
+  /* Add properties below */
+  width: 600px;
+}
+
+
+#reviewHistory {
+  border-radius: 10px;
+  background-color: white;
+  /* Add properties below */
+  margin-left: 390px;
+  margin-top: 200px;
+  width: 600px;
+} 
+
+#userImg {
+  position: absolute;
+  margin-top: 20px;
+  margin-left: 50px;
+  width: 300px;
+  min-height: 300px;
+  float: left;
+}
+
+.deleteButton{
+  float:right;
+  margin-top: 5px;
+  margin-right:5px;
+}
+
+
+

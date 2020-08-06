@@ -1,0 +1,18 @@
+/* Styles for the Header React component */
+
+
+.product {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+.product-info {
+	text-align: center;
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+.product-image {
+    max-width: 500px;
+}
